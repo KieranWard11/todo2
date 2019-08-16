@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To Do</string>
+    <string name="button_addPlacemark">Add Task</string>
+    <string name="hint_placemarkTitle">Task Title</string>
+</resources>
